@@ -1,0 +1,22 @@
+{
+  "name": "responsiveportfolio",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielhayespco/responsivePortfolio.git"
+  },
+  "author": "Daniel Hayes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielhayespco/responsivePortfolio/issues"
+  },
+  "homepage": "https://github.com/danielhayespco/responsivePortfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
