@@ -166,7 +166,7 @@ main {
   grid-template-columns: repeat(3, 1fr); }
   .about-info .bio-image {
     width: 250px;
-    height: 350px;
+    height: 330px;
     grid-area: bioimage;
     margin: auto;
     border: #eece1a 3px solid; }
