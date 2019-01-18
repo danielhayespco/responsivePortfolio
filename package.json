@@ -2,7 +2,7 @@
   "name": "responsiveportfolio",
   "version": "1.0.0",
   "description": "Responsive Portfolio Website",
-  "main": "dist/index.js",
+  "main": "dist/index.html",
   "homepage": "https://danielhayespco.github.io/responsivePortfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
