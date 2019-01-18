@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/danielhayespco/responsivePortfolio/issues"
   },
-  "homepage": "https://github.com/danielhayespco/responsivePortfolio#readme",
+  "homepage": "https://github.com/danielhayespco/responsivePortfolio/home",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.11.0"
