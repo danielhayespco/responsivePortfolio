@@ -273,6 +273,16 @@ main#home h1 {
   color: #000;
 }
 
+@media screen and (max-width: 600px) {
+  .boxes div {
+    font-size: 1.5rem;
+    border: 3px solid white;
+    padding: 1.5rem 2.5rem;
+    margin-bottom: 3rem;
+    transition: all 0.5s ease-out;
+  }
+}
+
 .btn,
 .btn-dark,
 .btn-light {
