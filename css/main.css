@@ -281,7 +281,7 @@ main#home h1 {
     margin-bottom: 3rem;
     transition: all 0.5s ease-out;
   }
-  h3.lg-heading {
+  h1.lg-heading {
     font-size: 5rem;
   }
 }
