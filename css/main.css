@@ -282,7 +282,7 @@ main#home h1 {
     transition: all 0.5s ease-out;
   }
   h1.lg-heading {
-    font-size: 5rem;
+    font-size: 65px;
   }
 }
 
